@@ -25,3 +25,12 @@
 20230928:1148: File /home/tiriyon/Tom/dotfiles/syncthing.yaml has been changed to /home/tiriyon/Tom/dotfiles/syncthing-topology.yaml
 20230928:1148: File /home/tiriyon/Tom/Scripts/syncthing.yaml has been changed to /home/tiriyon/Tom/Scripts/syncthing-topology.yaml
 20230928:1148: File /home/tiriyon/Tom/Tools/syncthing.yaml has been changed to /home/tiriyon/Tom/Tools/syncthing-topology.yaml
+20230928:1156: Error: /home/tiriyon/Tom/temp_sync/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/Documents/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/Vaults/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/sync_tempDesktop/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/nandi/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/pocophone/poco_doc_sync/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/dotfiles/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/Scripts/syncthing-topology.yamlyaml not found
+20230928:1156: Error: /home/tiriyon/Tom/Tools/syncthing-topology.yamlyaml not found
